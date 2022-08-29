@@ -1,7 +1,7 @@
-# * OCR *
+# ** OCR **
 OCR has two major building blocks:
 
-## * Text detection *
+## ** Text detection **
 
 Object detection can be done in 2 ways
 >> Region-based detectors
@@ -16,5 +16,5 @@ Here, there is a certain trade-off. Since region-based detectors are more accura
 
 ---
 
-## * Text recognition *
+## ** Text recognition **
 
