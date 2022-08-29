@@ -13,5 +13,7 @@ Find bounding boxes and do classification at the same time. For example, YOLO.
 
 Here, there is a certain trade-off. Since region-based detectors are more accurate, while single shot detectors are faster.
 
+---
+
 > Text recognition
 
