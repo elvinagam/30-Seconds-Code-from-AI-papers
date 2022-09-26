@@ -12,3 +12,6 @@ Why use JAX
 3. JIT - JAX makes your own functions into compiled, making orders of magnitude different from np.
 4. Auto-differentiation
 5. Deep Learning with   Flax, Haiku, Elegy
+
+Reason why we cannot always use JAX JIT, is, it only works with pure function where there is no control flow (e.g if statement). The values passed through inside code of a function should not change. Apparently, opposite of this is the reason why JIT is fast. Since it caches the first values, and saves time on the 2nd and so forth runs for efficiency.
+
