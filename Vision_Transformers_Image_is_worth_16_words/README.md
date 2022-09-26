@@ -13,3 +13,5 @@ Tested on: ImageNet - 1k classes, 1.3M images; ImageNet21K - 21K classes, 14M im
 Trained on: Adam optimizer; 4096 batch size, weight decay of 0.1
 Regularization: dropout, weight-decay, label-smoothing (penalizing hard labels, leaving more space for soft labels to prevent over-confidence and make more generalizable.
 
+Usually, vision transformers are better at millions of images. Therefore, if your dataset is not in the margin of millions, you still better stick to the regular ResNet or EfficientNet architectures.
+
