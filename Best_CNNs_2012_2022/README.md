@@ -1,6 +1,6 @@
-Well-know CNN architectures and how they evolved through years
+Well-known CNN architectures and how they evolved through years
 
-Since 2012 to today's 2022, there have been a huge leap forward in terms of ImageNet accuracy metrics. A hard jump from ~60% accuracy to over 90% now. 
+Since 2012 to today's 2022, there have been a huge leap forward in terms of ImageNet accuracy metrics. A significant jump from ~60% accuracy to over 90% now. 
 
 
 Few terminologies in CNNs:
